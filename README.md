@@ -1,5 +1,5 @@
 Bank-Management-System
-This YouTube video showcases a Bank Management System project built using Java.
+
 
 Project Description This is a desktop application created with Java Swing for the frontend and MySQL for the database. The system provides a virtual and automated banking experience, aiming to save time and reduce errors compared to traditional banking.
 
